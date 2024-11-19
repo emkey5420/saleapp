@@ -7,7 +7,7 @@ def load_categories():
         "name": "Tablet"
     },{
         "id": 3,
-        "name": "Desktop"
+        "name": "Deskop"
     }]
 
 
